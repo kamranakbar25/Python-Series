@@ -1,24 +1,24 @@
-# print("Hello World\n")
-# print('I am learning python')
-# print('I\'m Kamran')
-# print(5)
-# print(3.14)
+print("Hello World\n")
+print('I am learning python')
+print('I\'m Kamran')
+print(5)
+print(3.14)
 
 
-# name = "Kamran"
-# print(name)
-# age = 19
-# print(age)
-# pi = 3.14
-# isHuman = True
-# print(pi)
-# print(isHuman)
+name = "Kamran"
+print(name)
+age = 19
+print(age)
+pi = 3.14
+isHuman = True
+print(pi)
+print(isHuman)
 
 
-# print('name: ', type(name))
-# print('age: ', type(age))
-# print('pi', type(pi))
-# print('boolean: ', type(isHuman))
+print('name: ', type(name))
+print('age: ', type(age))
+print('pi', type(pi))
+print('boolean: ', type(isHuman))
 
 
 # &*$@name = ''
@@ -26,7 +26,6 @@
 # myname
 # MYNAME
 
-# while
 
 
 # single line comment
@@ -39,26 +38,26 @@ line
 comment
 '''
 
-# a= 4 
-# b = 7
-# # this program is adding a and b
-# print(a + b)
+a= 4 
+b = 7
+# this program is adding a and b
+print(a + b)
 
 
 # Input
 
-# my_name = input('Enter your name: ')
-# print('Your name is: ', my_name)
-# my_age = input('Enter your age: ')
-# print('Your age is: ', my_age)
-# print(type(my_age))
+my_name = input('Enter your name: ')
+print('Your name is: ', my_name)
+my_age = input('Enter your age: ')
+print('Your age is: ', my_age)
+print(type(my_age))
 
 
 # Type Casting
 
-# my_age = int(input('Enter your age: '))
-# print(my_age)
-# print(type(my_age))
+my_age = int(input('Enter your age: '))
+print(my_age)
+print(type(my_age))
 
 
 
