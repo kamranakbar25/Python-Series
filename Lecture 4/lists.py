@@ -1,75 +1,75 @@
 fruits = ['Apple', 'Orange', 'Mango', 'Banana']
-# print(fruits)
-# print(type(fruits))
+print(fruits)
+print(type(fruits))
 
 # Indexing
-# print(fruits[0])
-# print(fruits[2])
-# print(fruits[3])
+print(fruits[0])
+print(fruits[2])
+print(fruits[3])
 
 # Slicing
-# print(fruits[1:3])
-# print(fruits[::-1])
+print(fruits[1:3])
+print(fruits[::-1])
 
 # Nested Lists
-# matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
-# print(matrix[0])
-# print(matrix[1])
-# print(matrix[2])
+matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+print(matrix[0])
+print(matrix[1])
+print(matrix[2])
 
 # Mutability
-# fruits[1] = 'Papaya'
-# print(fruits)
+fruits[1] = 'Papaya'
+print(fruits)
 
 # Lists Methods
 frts = ['Apple', 'Banana', 'Mango']
-# frts.append('Mango')
-# print(frts)
+frts.append('Mango')
+print(frts)
 
-# frts.extend(['Mango', 'Orange'])
-# print(frts)
+frts.extend(['Mango', 'Orange'])
+print(frts)
 
-# frts.insert(1, 'Papaya')
-# print(frts)
+frts.insert(1, 'Papaya')
+print(frts)
 
-# frts.remove('Banana')
-# print(frts)
+frts.remove('Banana')
+print(frts)
 
-# removed_frts = frts.pop(1)
-# print(removed_frts)
-# print(frts)
+removed_frts = frts.pop(1)
+print(removed_frts)
+print(frts)
 
-# frts.clear()
-# print(frts)
+frts.clear()
+print(frts)
 
 num = [3, 54, 67, 23, 7, 8]
-# print(num)
-# num.sort()
-# print(num)
-# num.sort(reverse=True)
-# print(num)
+print(num)
+num.sort()
+print(num)
+num.sort(reverse=True)
+print(num)
 
-# newNum = sorted(num)
-# print(newNum)
+newNum = sorted(num)
+print(newNum)
 
-# num.reverse()
-# print(num)
+num.reverse()
+print(num)
 
-# org = [1, 2, 3]
-# duplicate = org.copy()
-# print(duplicate)
-# duplicate.append(4)
-# print(duplicate)
+org = [1, 2, 3]
+duplicate = org.copy()
+print(duplicate)
+duplicate.append(4)
+print(duplicate)
 
 
 # Membership & Iteration
 fruits = ['Apple', 'Banana', 'Mango']
-# print('Apple' in fruits)
-# print('Kiwi' not in fruits)
-# print('Kiwi' in fruits)
+print('Apple' in fruits)
+print('Kiwi' not in fruits)
+print('Kiwi' in fruits)
 
-# for i in fruits:
-#     print(i, end=' ')
+for i in fruits:
+    print(i, end=' ')
 
 
 # To-Do List app
@@ -90,7 +90,7 @@ if completed_task in todo_list:
 print('Remaining tasks: ', todo_list)
 
 
-
+# Remove Duplicates
 numbers = [1, 2, 3, 4, 4, 4, 5, 3, 3, 6]
 uniq_num = []
 for num in numbers:
