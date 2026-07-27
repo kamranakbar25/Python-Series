@@ -65,7 +65,6 @@ show_result("Vikas")
 print()
 show_result("Rohit")
 
-
 class_avg()
 
 topper()
