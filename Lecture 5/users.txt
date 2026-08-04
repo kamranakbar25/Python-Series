@@ -1,0 +1,12 @@
+Kamran, 19, Delhi
+Rohan, 21, Mumbai
+Ayush, 20, Patna
+Kamran, 19, Delhi
+Rohan, 21, Mumbai
+Ayush, 20, Patna
+Kamran, 19, Delhi
+Rohan, 21, Mumbai
+Ayush, 20, Patna
+Kamran, 19, Delhi
+Rohan, 21, Mumbai
+Ayush, 20, Patna
