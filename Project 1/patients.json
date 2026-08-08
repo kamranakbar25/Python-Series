@@ -1,0 +1,12 @@
+[
+    {
+        "patient_id": "P001",
+        "name": "Kamran",
+        "age": 19,
+        "gender": "Male",
+        "contact": "741852963",
+        "disease": "Fever",
+        "address": "Delhi",
+        "admit_date": "2026-08-06 19:19"
+    }
+]

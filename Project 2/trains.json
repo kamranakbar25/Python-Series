@@ -1,0 +1,52 @@
+{
+    "12302": {
+        "train_number": "12302",
+        "train_name": "Rajdhani Express",
+        "source": "Delhi",
+        "destination": "Mumbai",
+        "departure_time": "16:00",
+        "arrival_time": "8:00",
+        "total_seats": 100,
+        "available_seats": 99
+    },
+    "12951": {
+        "train_number": "12951",
+        "train_name": "Shatabdi Express",
+        "source": "Delhi",
+        "destination": "Chandigarh",
+        "departure_time": "07:30",
+        "arrival_time": "11:00",
+        "total_seats": 100,
+        "available_seats": 100
+    },
+    "12259": {
+        "train_number": "12259",
+        "train_name": "Duronto Express",
+        "source": "Mumbai",
+        "destination": "Kolkata",
+        "departure_time": "22:00",
+        "arrival_time": "16:00",
+        "total_seats": 100,
+        "available_seats": 100
+    },
+    "12925": {
+        "train_number": "12925",
+        "train_name": "Tamil Nadu Express",
+        "source": "Delhi",
+        "destination": "Chennai",
+        "departure_time": "22:30",
+        "arrival_time": "7:00",
+        "total_seats": 100,
+        "available_seats": 100
+    },
+    "12621": {
+        "train_number": "12621",
+        "train_name": "Paschim Express",
+        "source": "Amritsar",
+        "destination": "Mumbai",
+        "departure_time": "12:15",
+        "arrival_time": "20:00",
+        "total_seats": 100,
+        "available_seats": 100
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "S1JT5I1E": {
+        "pnr": "S1JT5I1E",
+        "passenger": {
+            "name": "Kamran",
+            "age": 19,
+            "gender": "M",
+            "mobile": "7418520963"
+        },
+        "train_number": "12302",
+        "train_name": "Rajdhani Express",
+        "seat_number": 1,
+        "status": "Confirmed"
+    }
+}
